@@ -1,0 +1,1 @@
+C:\Users\letua\source\repos\Todo\Web\Web.Client\obj\Debug\net9.0\staticwebassets.build.json
